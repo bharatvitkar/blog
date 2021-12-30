@@ -50,10 +50,40 @@ input {
 .movie_text span {
     color: #ff7700;
 }
-.environment_li{
+
+.environment_li {
     margin-top: 13px;
 }
-.environment_li h4{
-  border-bottom: 1px solid white;  
-   padding: 8px; 
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
 }
